@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".MainActivity"
+    android:orientation="vertical"
+    android:background="@color/white">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:srcCompat="@drawable/background_intro"
+            android:layout_marginTop="-180dp"
+            >
+        </ImageView>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Foodator"
+            android:layout_marginTop="-680dp"
+            android:gravity="center"
+            android:layout_gravity="center"
+            android:textSize="50sp"
+            android:textColor="@color/white"
+            android:textStyle="bold"
+            >
+
+        </TextView>
+
+
+        <ImageView
+            android:layout_width="250dp"
+            android:layout_height="250dp"
+            app:srcCompat="@drawable/logo"
+            android:layout_marginTop="40dp"
+            android:layout_gravity="center">
+
+        </ImageView>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="50dp"
+            android:text="Food Delivery App"
+            android:gravity="center"
+            android:layout_gravity="center"
+            android:layout_marginTop="60dp"
+            android:textSize="35sp"
+            android:textColor="@color/white"
+            >
+
+        </TextView>
+
+    </LinearLayout>
+
+
+    <Button
+        android:id="@+id/tv_started"
+        android:layout_width="220dp"
+        android:layout_height="55dp"
+        android:background="@drawable/text_view_style"
+        android:text="Get Started"
+        android:layout_marginTop="-100dp"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:textSize="25sp"
+        android:textColor="@color/white">
+
+    </Button>
+
+
+</LinearLayout>

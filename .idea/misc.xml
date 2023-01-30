@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/zbook15G3/AndroidStudioProjects/FoodAppAndroidDesign/app/src/main/res/drawable/add_to_cart_style.xml" value="0.1295" />
+        <entry key="..\:/Users/zbook15G3/AndroidStudioProjects/FoodAppAndroidDesign/app/src/main/res/drawable/edit_text_style.xml" value="0.1295" />
+        <entry key="..\:/Users/zbook15G3/AndroidStudioProjects/FoodAppAndroidDesign/app/src/main/res/drawable/ic_baseline_density_medium_24.xml" value="0.1125" />
+        <entry key="..\:/Users/zbook15G3/AndroidStudioProjects/FoodAppAndroidDesign/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.1295" />
+        <entry key="..\:/Users/zbook15G3/AndroidStudioProjects/FoodAppAndroidDesign/app/src/main/res/drawable/ic_baseline_shopping_bag_24.xml" value="0.1125" />
+        <entry key="..\:/Users/zbook15G3/AndroidStudioProjects/FoodAppAndroidDesign/app/src/main/res/drawable/item_rv_style.xml" value="0.1295" />
+        <entry key="..\:/Users/zbook15G3/AndroidStudioProjects/FoodAppAndroidDesign/app/src/main/res/drawable/item_rv_two_style.xml" value="0.1295" />
+        <entry key="..\:/Users/zbook15G3/AndroidStudioProjects/FoodAppAndroidDesign/app/src/main/res/drawable/layout_style.xml" value="0.1295" />
+        <entry key="..\:/Users/zbook15G3/AndroidStudioProjects/FoodAppAndroidDesign/app/src/main/res/drawable/plus_muins_style.xml" value="0.152" />
+        <entry key="..\:/Users/zbook15G3/AndroidStudioProjects/FoodAppAndroidDesign/app/src/main/res/drawable/plus_muins_style_two.xml" value="0.136" />
+        <entry key="..\:/Users/zbook15G3/AndroidStudioProjects/FoodAppAndroidDesign/app/src/main/res/drawable/syle_the_page2.xml" value="0.152" />
+        <entry key="..\:/Users/zbook15G3/AndroidStudioProjects/FoodAppAndroidDesign/app/src/main/res/drawable/tab_layout_style.xml" value="0.1295" />
+        <entry key="..\:/Users/zbook15G3/AndroidStudioProjects/FoodAppAndroidDesign/app/src/main/res/drawable/text_view_style.xml" value="0.1295" />
+        <entry key="..\:/Users/zbook15G3/AndroidStudioProjects/FoodAppAndroidDesign/app/src/main/res/drawable/total_price_style.xml" value="0.1295" />
+        <entry key="..\:/Users/zbook15G3/AndroidStudioProjects/FoodAppAndroidDesign/app/src/main/res/layout/activity_main.xml" value="0.176" />
+        <entry key="..\:/Users/zbook15G3/AndroidStudioProjects/FoodAppAndroidDesign/app/src/main/res/layout/activity_main2.xml" value="0.176" />
+        <entry key="..\:/Users/zbook15G3/AndroidStudioProjects/FoodAppAndroidDesign/app/src/main/res/layout/activity_main3.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/zbook15G3/AndroidStudioProjects/FoodAppAndroidDesign/app/src/main/res/layout/activity_main4.xml" value="0.2" />
+        <entry key="..\:/Users/zbook15G3/AndroidStudioProjects/FoodAppAndroidDesign/app/src/main/res/layout/elevent_tab_layout.xml" value="0.2" />
+        <entry key="..\:/Users/zbook15G3/AndroidStudioProjects/FoodAppAndroidDesign/app/src/main/res/layout/fragment_home_page.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/zbook15G3/AndroidStudioProjects/FoodAppAndroidDesign/app/src/main/res/layout/item_rv_one.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/zbook15G3/AndroidStudioProjects/FoodAppAndroidDesign/app/src/main/res/layout/item_rv_two.xml" value="0.264" />
+        <entry key="..\:/Users/zbook15G3/AndroidStudioProjects/FoodAppAndroidDesign/app/src/main/res/layout/tab_layout.xml" value="0.253125" />
+        <entry key="..\:/Users/zbook15G3/AndroidStudioProjects/FoodAppAndroidDesign/app/src/main/res/menu/menu.xml" value="0.2" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Food App Android Design</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="food">Food that is imaginatively and lovingly prepared, and eaten with good company, warms the presence.</string>
+</resources>
